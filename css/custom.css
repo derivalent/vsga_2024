@@ -1,0 +1,10 @@
+.custom-slide-img {
+    width: 800px; /* Atur lebar gambar sesuai keinginan */
+    height: 400px; /* Atur tinggi gambar sesuai keinginan */
+    object-fit: cover; /* Mengatur gambar untuk menutupi area yang tersedia */
+  }
+  
+  /* CSS untuk membuat checkbox berada di sebelah kiri labelnya */
+.form-check-input {
+  margin-right: 10px;
+}
